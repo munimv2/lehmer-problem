@@ -20,7 +20,7 @@ Commands:
                                   Lehmer's numbers Delta_k = prod (r_i^k - 1), k = 1..N, for a
                                   monic polynomial (coefficients highest degree first)
 
-By MV2 of Munim, Inc. Made with AI agents working in MV2's name. MIT licence.
+By MV2 of Munim, Inc. Made with AI agents working in MV2's name. Apache-2.0 licence.
 """
 
 import cmath
